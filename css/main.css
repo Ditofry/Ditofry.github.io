@@ -63,7 +63,7 @@ ul.posts span {
   font-size: 115%;
   text-align: justify;
   width: 42em;
-  margin: 3em auto 2em;
+  margin: 0px auto 2em;
   line-height: 1.5em;
 }
 
@@ -115,16 +115,6 @@ ul.posts span {
   margin-left: 15px;
   overflow: hidden;
 }
-
-/*.site .footer .rss {
-  margin-top: 1.1em;
-  margin-right: -.2em;
-  float: right;
-}*/
-
-/*.site .footer .rss img {
-  border: 0;
-}*/
 
 /*****************************************************************************/
 /*
