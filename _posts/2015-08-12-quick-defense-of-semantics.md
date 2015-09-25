@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A quick defense of the study of semantics"
+title: "A Quick Defense of the Study of Semantics"
 categories: theory philosophy language
 date: 2015-08-12
 ---
