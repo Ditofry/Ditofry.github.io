@@ -5,8 +5,9 @@ categories: virtual-reality theory philosophy language
 date: 2015-08-20
 ---
 
-Mostly a quick reference for talking about Virtual Reality in my other posts that
-I will continue to add to as necessary.
+## Some of the terms that they use in the biz!
+
+But mostly a simple, linkable reference for talking about Virtual Reality in my other posts.
 
 The terminology that I use comes from the [writings][mel-writings] of
 [Mel Slater][mel], a leading researcher in the field of virtual reality, and is
