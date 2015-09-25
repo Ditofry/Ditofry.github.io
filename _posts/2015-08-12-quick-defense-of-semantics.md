@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A quick Defense of the Importance of Semantics"
+title: "A quick defense of the study of semantics"
 categories: theory philosophy language
 date: 2015-08-12
 ---
