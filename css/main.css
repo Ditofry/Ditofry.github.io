@@ -27,7 +27,6 @@ p { margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
-a:visited { color: #a0a; }
 
 img {
   width: 100%;
@@ -38,13 +37,51 @@ img {
 /* Home
 /*
 /*****************************************************************************/
+div.index-title {
+  transition: background-color 0.2s ease, color 0.2s ease;
+  float: left;
+  color: white;
+  background-color: black;
+  padding: 0px 25px;
+  height: 40px;
+  margin: 0px 4px 0px;
+  border: 3px solid black;
+  text-align: center;
+  line-height: 38px;
+}
+
+div.index-date {
+  transition: background-color 0.2s ease, color 0.2s ease;
+  color: white;
+  background-color: black;
+  width: auto;
+  overflow: hidden;
+  height: 40px;
+  margin: 4px 0px;
+  border: 3px solid black;
+  text-align: center;
+  line-height: 38px;
+}
+
+li.index-item:hover div.index-title {
+  background-color: #FFFF00;
+  color: black;
+}
+
+li.index-item:hover div.index-date {
+  background-color: #FFFF00;
+  color: black;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
+  width: 100%;
 }
 
 ul.posts li {
   line-height: 1.75em;
+  width: 100%;
 }
 
 ul.posts span {
