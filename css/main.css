@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
+  font: 13.34px courier, futura-pt, Arial, sans-serif;
   font-size: small;
   text-align: center;
 }
@@ -37,6 +37,7 @@ img {
 /* Home
 /*
 /*****************************************************************************/
+/* http://stackoverflow.com/questions/1260122/expand-div-to-take-remaining-width */
 div.index-title {
   transition: background-color 0.2s ease, color 0.2s ease;
   float: left;
