@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Quick Defense of the Study of Semantics"
+title: "semantics do matter"
 categories: theory philosophy language
 date: 2015-08-12
 ---
@@ -31,7 +31,7 @@ that is obstructive to the goal of understanding something, (e.g. a politician
 who uses ambiguous semantics to imply something that is more palatable than
 the actual truth).
 
-![semantics frazz comic](/assets/semantics.png "Title")
+![semantics frazz comic](/assets/semantics.png "Frazz semantics")
 
 Semantics can be tricky, prone to misuse, and knowingly abused, which is exactly why
 it's necessary to spend at least some time formalizing them in order to make

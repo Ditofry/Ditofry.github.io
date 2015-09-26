@@ -45,7 +45,7 @@ div.index-title {
   background-color: black;
   padding: 0px 25px;
   height: 40px;
-  margin: 0px 4px 0px;
+  margin: 0px 4px 0px 0px;
   border: 3px solid black;
   text-align: center;
   line-height: 38px;
@@ -136,19 +136,23 @@ ul.posts span {
   color: #aaa;
 }
 
-.site .footer {
+.footer {
   position: absolute;
   bottom: 0px;
-  right: 0px;
   overflow: hidden;
+  width: 100%;
 }
 
-.site .footer .social {
+.footer {
+  float: left;
+}
+
+.footer .social {
   margin-right: 3em;
 }
 
-.site .footer .social a {
-  float: left;
+.footer .social a {
+  float: right;
   width: 32px;
   margin-left: 15px;
   overflow: hidden;

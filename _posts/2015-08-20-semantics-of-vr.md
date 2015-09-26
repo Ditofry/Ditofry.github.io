@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Basic Semantics of Virtual Reality"
+title: "the language of virtual reality"
 categories: virtual-reality theory philosophy language
 date: 2015-08-20
 ---
