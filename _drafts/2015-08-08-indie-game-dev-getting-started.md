@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Bitwise"
-categories: code
+title:  "getting into game dev"
+categories: code tutorial opinion gaming
 ---
 
-# To bitwise, or not to bitwise?
-I do love me some bitwise.
+# It will make you a better coder

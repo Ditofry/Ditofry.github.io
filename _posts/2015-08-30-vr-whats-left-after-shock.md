@@ -16,7 +16,7 @@ they summit the peaks of impossibly tall roller coasters, people swatting at agg
 of insects, people trying to physically resist the onslaught of virtual monsters,
 and so on.
 
-### First of all, check out this [trailer for Narcosis][narcosis-trailer]:
+### But srsly check out this [trailer for Narcosis][narcosis-trailer]:
 
 
 

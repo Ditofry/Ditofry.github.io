@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Bitwise"
-categories: code
+title:  "will VR dominate the gaming market?"
+categories: VR opinion
 ---
 
-# To bitwise, or not to bitwise?
-I do love me some bitwise.
+# It's GON GITCHE!!!
