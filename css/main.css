@@ -25,6 +25,11 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
+h1 { font-size: 1.8em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.2em; }
+h4 { font-size: 1.1em; }
+
 a         { color: #00a; }
 a:hover   { color: #000; }
 
@@ -137,7 +142,7 @@ ul.posts span {
 }
 
 .footer {
-  position: absolute;
+  position: fixed;
   bottom: 0px;
   overflow: hidden;
   width: 100%;

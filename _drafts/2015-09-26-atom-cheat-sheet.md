@@ -1,6 +1,11 @@
 ---
 layout: post
 title:  "essentials for Atom text editor"
-categories: systems tutorial C code
+categories: atom editor reference
 ---
-HEEeyyyyy
+
+ - show/hide file tree: ```CMD + \```
+ - jump to line: ``` CTRL + g```
+ - duplicate line: ```CMD + SHIFT + D```
+ - multiline edit: ```CMD + SHIFT + L``` if lines already selected, ``` ```
+ - markdown preview: ```CTRL + SHIFT + M```

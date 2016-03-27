@@ -4,13 +4,7 @@ title:  "Algorithms"
 categories: algorithms code reference python c++
 ---
 #### Review
-proof by:
- - induction
-  This is the jam for this class.
-  Weak vs. Strong and why you would need each.
-  closed form
+learn Try data structures
 
- - contradiction
- - contrapositive
-
-Big O notation
+ - Adjecency List
+ 
