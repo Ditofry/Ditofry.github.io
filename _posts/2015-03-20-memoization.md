@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Algorithms: Dynamic Programming"
+title:  "Memoization"
 categories: algorithms memoization javascript
 ---
 
