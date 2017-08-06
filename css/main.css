@@ -10,8 +10,6 @@
   padding: 0;
 }
 
-html, body { height: 100%; }
-
 body {
   background-color: #FFF;
   font: 13.34px courier, futura-pt, Arial, sans-serif;
@@ -148,21 +146,10 @@ ul.posts span {
   width: 100%;
 }
 
-.footer {
+.footer .gh-link {
   float: left;
+  margin: 0 0 5px 5px;
 }
-
-.footer .social {
-  margin-right: 3em;
-}
-
-.footer .social a {
-  float: right;
-  width: 32px;
-  margin-left: 15px;
-  overflow: hidden;
-}
-
 /*****************************************************************************/
 /*
 /* Posts

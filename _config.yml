@@ -1,7 +1,5 @@
 name: RoboBrandon
-markdown: redcarpet
+markdown: kramdown
+highlighter: rouge
 safe: true
 lsi: false
-pygments: true
-redcarpet:
-  extensions: ["tables"]
