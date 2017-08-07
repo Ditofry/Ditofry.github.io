@@ -79,7 +79,8 @@ li.index-item:hover div.index-date {
 
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
+  margin-top: 4em;
+  margin-bottom: 4em;
   width: 100%;
 }
 
